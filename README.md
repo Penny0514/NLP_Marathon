@@ -19,3 +19,5 @@ This is my note about NLP marathon on https://www.cupoy.com/marathon/00000175AB5
 
 ⑦ NLP 深度學習期末實務專題
 
+## some good reference
+1. https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n
